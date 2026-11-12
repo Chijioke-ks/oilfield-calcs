@@ -1,6 +1,6 @@
 # oilfield-calcs
 Open-source Python toolkit and Streamlit app for basic  well-operations calculations (cement volumes, hydrostatic pressure, pump hydraulics, decline forecasts).
-In scope
+Scope:
 • Volumes and hydrostatics: pipe and annular capacities, fluid volumes, hydrostatic pressure, multi-fluid columns.
 • Cementing: slurry volume with excess, sacks, mix water, displacement, pump time, end-of-job differential pressure.
 • Coil tubing: internal volume, annular velocity, bottoms-up time, pump time.
